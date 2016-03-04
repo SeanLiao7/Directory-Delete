@@ -1,0 +1,20 @@
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\bin\Release\FileDelete.exe.config
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\bin\Release\FileDelete.exe
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Release\FileDelete.FileDeleteForm.resources
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Release\FileDelete.Properties.Resources.resources
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Release\FileDelete.csproj.GenerateResource.Cache
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Release\FileDelete.exe
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Release\FileDelete.exe.config
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Release\FileDelete.exe
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.FileDeleteForm.resources
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.Properties.Resources.resources
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.csproj.GenerateResource.Cache
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Release\FileDelete.exe.config
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Release\FileDelete.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.Properties.Resources.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.csproj.GenerateResource.Cache
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Release\FileDelete.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Release\FileDelete.DirectoryDeleteForm.resources

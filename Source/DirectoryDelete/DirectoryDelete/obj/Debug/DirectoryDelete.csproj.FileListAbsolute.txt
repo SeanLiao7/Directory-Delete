@@ -1,0 +1,17 @@
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.DirectoryDeleteForm.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\DirectoryDelete.csproj.GenerateResource.Cache
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\DirectoryDeleteForm.exe.config
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\DirectoryDeleteForm.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\DirectoryDeleteForm.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\DirectoryDeleteForm.Properties.Resources.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\DirectoryDeleteForm.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\DirectoryDeleteForm.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\bin\Debug\DirectoryDeleteForm.exe.config
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\bin\Debug\DirectoryDeleteForm.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\bin\Debug\DirectoryDeleteForm.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDelete.DirectoryDeleteForm.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDeleteForm.Properties.Resources.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDelete.csproj.GenerateResource.Cache
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDeleteForm.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDeleteForm.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\Directory Delete\Source\DirectoryDelete\DirectoryDelete\obj\Debug\DirectoryDelete.csprojResolveAssemblyReference.cache

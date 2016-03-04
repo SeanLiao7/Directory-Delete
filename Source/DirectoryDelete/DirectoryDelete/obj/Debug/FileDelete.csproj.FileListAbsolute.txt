@@ -1,0 +1,27 @@
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\bin\Debug\FileDelete.exe.config
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\bin\Debug\FileDelete.exe
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\bin\Debug\FileDelete.pdb
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.csprojResolveAssemblyReference.cache
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.Properties.Resources.resources
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.csproj.GenerateResource.Cache
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.exe
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.pdb
+C:\Users\sean_l1\Desktop\FileDelete\FileDelete\obj\Debug\FileDelete.FileDeleteForm.resources
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.FileDeleteForm.resources
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.Properties.Resources.resources
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.csproj.GenerateResource.Cache
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.exe
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.pdb
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.exe.config
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.exe
+D:\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.exe.config
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\bin\Debug\FileDelete.pdb
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.csprojResolveAssemblyReference.cache
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.FileDeleteForm.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.Properties.Resources.resources
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.csproj.GenerateResource.Cache
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.exe
+D:\HiLoDropbox\Dropbox\C#SoftWare\小工具\File Delete\Source\FileDelete\FileDelete\obj\Debug\FileDelete.pdb
