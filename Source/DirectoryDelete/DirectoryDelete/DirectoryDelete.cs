@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -10,8 +10,8 @@ namespace DirectoryDelete
         string _targetDirectoryPath;
         string _targetDeleteString;
 
-        public event Action OnDeleteWorkFinished;
         public event Action OnDeleteWorkStart;
+        public event Action OnDeleteWorkFinished;
 
         public DirectoryDelete ( string targetDirectoryPath, string targetDeleteString )
         {
@@ -29,12 +29,12 @@ namespace DirectoryDelete
                     deleteDirectoryRecursive ( new DirectoryInfo ( _targetDirectoryPath ) );
                 } ).ContinueWith ( deleteTask =>
                 {
-                    MessageBox.Show ( "刪除完成！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.ServiceNotification );
+                    MessageBox.Show ( "Delete Completed!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.ServiceNotification );
                     OnDeleteWorkFinished?.Invoke ( );
                 } );
             }
             else
-                MessageBox.Show ( $"必須選擇目標資料夾與欲刪除字元\n當前資料夾路徑：{ _targetDirectoryPath }\n當前刪除字元：{ _targetDeleteString }", "警告", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, MessageBoxOptions.ServiceNotification );
+                MessageBox.Show ( $"Directory Path and Target can not be empty!\nCurrent Path：{ _targetDirectoryPath }\nCurrent Target：{ _targetDeleteString }", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1, MessageBoxOptions.ServiceNotification );
         }
 
         private bool checkInputIsValid ( ) => _targetDirectoryPath != string.Empty && _targetDeleteString != string.Empty;
